@@ -4,7 +4,7 @@
 
 # <p align="center">PosTechFiap-3IADT-TechChallenge 4 - Maio / 25 </p>
 
-# <p align="center"> Análise de vídeo </p>
+# <p align="center"> Detecção facial, análise de expressões emocionais e detecção de atividades em vídeos </p>
 
 Nesse repositório encontram-se:
 - [x] A resolução do 4º Tech Challenge no jupyter notebook 🐍.
